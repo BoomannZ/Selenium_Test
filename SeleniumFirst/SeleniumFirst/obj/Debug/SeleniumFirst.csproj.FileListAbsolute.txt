@@ -11,3 +11,6 @@ C:\Users\kpapian\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFir
 C:\Users\kpapian\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
 C:\Users\kpapian\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.dll
 C:\Users\kpapian\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.xml
+D:\Selenium\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+D:\Selenium\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+D:\Selenium\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb

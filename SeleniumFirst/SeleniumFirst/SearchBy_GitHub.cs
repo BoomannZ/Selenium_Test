@@ -38,15 +38,10 @@ namespace SeleniumFirst
             WebDriverWait waitLoading = new WebDriverWait(_driver, TimeSpan.FromSeconds(10));
             IWebElement lable = waitLoading.Until<IWebElement>(ExpectedConditions.ElementIsVisible(By.Id("user_search_results")));
             
-            try
-            {
+            
                 Assert.AreEqual(searchName, lable.FindElement(By.XPath(".//div[2]/div/a")).Text);
                 Console.WriteLine("Names are equal");
-            }
-            catch (Exception notEqual)
-            {
-                Console.WriteLine(notEqual);
-            }
+          
 
             _driver.Close();
         }
