@@ -14,3 +14,6 @@ C:\Users\kpapian\documents\visual studio 2015\Projects\SeleniumFirst\SeleniumFir
 D:\Selenium\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
 D:\Selenium\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
 D:\Selenium\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
+C:\Users\Karina\Selenium_Test\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+C:\Users\Karina\Selenium_Test\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+C:\Users\Karina\Selenium_Test\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
